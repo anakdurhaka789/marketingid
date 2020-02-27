@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Repository Digital Marketing Indonesia | by Karinov.co.id
+SEO SERVICE | by Anak Durhaka
 ==================================================
 
 Contents:
@@ -23,13 +23,17 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+Indonesia Bersatu
 ==================
-- `jasa digital marketing indonesia <https://karinov.co.id/>`_
-- `navigasi pariwisata indonesia <https://www.navi.id>`_
-- `skema box speaker dan review audio terbaru <https://www.fedora.or.id>`_ 
-- `kumpulan tautan berita terbaru indonesia <https://blogs.itb.ac.id/feeds>`_ 
-- `direktori service center indonesia <https://www.autobild.co.id>`_ 
+- `buku mimpi <https://angkapanas.com/buku-mimpi-erek-erek>`_ 
+- `gbet8 <https://aksesgb8.com>`_ 
+- `betidb <https://wonglanang.com>`_ 
+- `erek erek <https://erekerekjitu.com/>`_ 
+- `prediksi bola <https://duniabola8.news/index.php/category/prediksi-bola/>`_ 
+- `slot online <https://infoarena678.com>`_ 
+- `baccarat online <https://arenahoki.net>`_ 
+- `arena678 <https://situsarena.com>`_ 
+- `cewekpoker <https://kompokon.com>`_ 
 
 Mengenal E-A-T Algoritma SEO Mutakhir dari Google
 ==================
